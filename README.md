@@ -1,4 +1,5 @@
-## 👋 Hi, I am Ian Kyalo
+## 👋 Hi, I am Ian 
+
 - ♻️ Design, Develop, Create
 - ❌ Not interested in bugs without error messages
 - ✔️ Programming got me learning everyday
