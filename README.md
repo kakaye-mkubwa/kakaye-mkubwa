@@ -1,4 +1,4 @@
-## 👋 Hi, I am Ian 
+## 👋 Hi,
 
 - ♻️ Design, Develop, Create
 - ❌ Not interested in bugs without error messages
@@ -26,7 +26,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakaye-mkubwa&theme=city_lights) -->
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakaye-mkubwa&langs_count=8)](https://github.com/kakaye-mkubwa/github-readme-stats)
 
 
 
