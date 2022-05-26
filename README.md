@@ -1,8 +1,6 @@
 ## 👋 Hi,
 
 - ♻️ Design, Develop, Create
-- ❌ Not interested in bugs without error messages
-- ✔️ Programming got me learning everyday
 
 ### Connnect with me
 
