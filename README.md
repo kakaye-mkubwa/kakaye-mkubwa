@@ -20,10 +20,6 @@
 
 #
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kakaye-mkubwa&show_icons=true&theme=city_lights)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakaye-mkubwa&theme=city_lights)
-
 
 
 <!---
